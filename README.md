@@ -17,8 +17,24 @@ The data set was gotten from our tutors in persons of Mr Mushin and Femi. Also o
   1. for Data cleaning
   2. For Analysis
   3.  For visualization
- 
 
 - SQL- Structured Query Language for  Quering  of Data
 - Github for Portfolio Building
+
+### Data Cleaning and Preparations 
+In the initial phase of the Data  Cleaning and preparation, we perform the following action;
+- Data Loading and Inspection
+- Handling missing variables
+- Data Cleaning and formatting
+
+  ### Exploratory Data Analysis
+  EDA involved the exploring of the Data to answer some questions about the Data such as;
+  - What is the overall sales trend
+  - Which product are top sellers
+  -  What are the products on peak sales?
+  
+
+
+
+  
 
