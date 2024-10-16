@@ -9,8 +9,16 @@ The primary goal of this project is to structure a raw data set using Excel for 
 This my project journeying  in Data Analysis  , is to provide actionable recommendations  based on the analysis to assists in Data-Driven decision making in our communities.
 
 ### Data Source
-The data set was gotten from our tutors in persons of Mr Mushin and Femi. Also our data set was drived from a site called KAGGLE.
+The data set was gotten from our tutors in persons of Mr Mushin and Femi. Also our data set was drived from a site called KAGGLE Or FRED or any other data respository site.
 
 
 ### Tools Used
+- Microsoft Excel (Download Here).(https://www.microsoft.com).
+  1. for Data cleaning
+  2. For Analysis
+  3.  For visualization
+ 
+
+- SQL- Structured Query Language for  Quering  of Data
+- Github for Portfolio Building
 
